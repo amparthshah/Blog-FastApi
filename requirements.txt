@@ -144,6 +144,4 @@ webencodings==0.5.1
 Willow==1.4.1
 xhtml2pdf==0.2.9
 
-
-
 Make sure to make changes into .env file as per your requirement and then migrate those changes using alembic. Here postgres and pgadmin4 is used to connect to database
